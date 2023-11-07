@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/Bartman/static/css/main.9fdc8c51.css",
-    "main.js": "/Bartman/static/js/main.229d5b5e.js",
-    "static/css/68.684130f6.chunk.css": "/Bartman/static/css/68.684130f6.chunk.css",
-    "static/js/68.306306a3.chunk.js": "/Bartman/static/js/68.306306a3.chunk.js",
+    "main.css": "/Bartman/static/css/main.8e39e089.css",
+    "main.js": "/Bartman/static/js/main.74544204.js",
+    "static/css/603.e8ee6d90.chunk.css": "/Bartman/static/css/603.e8ee6d90.chunk.css",
+    "static/js/603.97c63230.chunk.js": "/Bartman/static/js/603.97c63230.chunk.js",
     "static/js/787.0642ad7d.chunk.js": "/Bartman/static/js/787.0642ad7d.chunk.js",
-    "static/js/118.da5e2278.chunk.js": "/Bartman/static/js/118.da5e2278.chunk.js",
+    "static/js/832.ec2ec200.chunk.js": "/Bartman/static/js/832.ec2ec200.chunk.js",
     "static/media/timer.gif": "/Bartman/static/media/timer.92919b67d600f8254cd4.gif",
     "static/media/bartman.gif": "/Bartman/static/media/bartman.f094133742ac73405296.gif",
     "static/media/card3.png": "/Bartman/static/media/card3.ec7fc6556ff695f4598c.png",
@@ -29,15 +29,15 @@
     "static/media/stars.png": "/Bartman/static/media/stars.ab8f201c377b54505898.png",
     "static/media/4.png": "/Bartman/static/media/4.a6a3ffec9de0fde5b559.png",
     "index.html": "/Bartman/index.html",
-    "main.9fdc8c51.css.map": "/Bartman/static/css/main.9fdc8c51.css.map",
-    "main.229d5b5e.js.map": "/Bartman/static/js/main.229d5b5e.js.map",
-    "68.684130f6.chunk.css.map": "/Bartman/static/css/68.684130f6.chunk.css.map",
-    "68.306306a3.chunk.js.map": "/Bartman/static/js/68.306306a3.chunk.js.map",
+    "main.8e39e089.css.map": "/Bartman/static/css/main.8e39e089.css.map",
+    "main.74544204.js.map": "/Bartman/static/js/main.74544204.js.map",
+    "603.e8ee6d90.chunk.css.map": "/Bartman/static/css/603.e8ee6d90.chunk.css.map",
+    "603.97c63230.chunk.js.map": "/Bartman/static/js/603.97c63230.chunk.js.map",
     "787.0642ad7d.chunk.js.map": "/Bartman/static/js/787.0642ad7d.chunk.js.map",
-    "118.da5e2278.chunk.js.map": "/Bartman/static/js/118.da5e2278.chunk.js.map"
+    "832.ec2ec200.chunk.js.map": "/Bartman/static/js/832.ec2ec200.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9fdc8c51.css",
-    "static/js/main.229d5b5e.js"
+    "static/css/main.8e39e089.css",
+    "static/js/main.74544204.js"
   ]
 }
